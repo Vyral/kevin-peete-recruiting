@@ -1,32 +1,34 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "California's Best Real Estate Training"
+description: Kevin Peete, a top Real Estate Agent in California, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
   - title:
     url:
 
 client:
-  name:
+  name: Kevin Peete
   title:
   license_number:
   about_markdown: |
+    I'm a Real Estate Consultant serving Los Angeles Metro, Orange County and Inland Empire areas. I specialize in adding value to my clients lives. My business is built on happy clients. Happy clients drive me to become better at what I do, and give me a chance to earn more business and to continue to become a better real estate professionals.
 
-  market:
-  brand:
+    Real Estate is generally the largest asset that most of my clients own and control. As a real estate professional and advisors to my clients, my biggest asset to them is to add tremendous value to their lives by guiding my clients through what would otherwise be an extremely complex process. I understand that the transaction experience is not as “simple” buying a piece of jewelry or acquiring a piece of furniture. The process involves tremendous amount of communication and uncertainty, strategy and negotiation, education and paperwork, and most of all time and money… sometimes spread over 30-60-90 or more days. i take pride in guiding my clients through the emotional and transactional ups and downs and prepare my clients for a successful closing.
+  market: California
+  brand: RE/MAX PATRIOTS
   brokerage:
-  address:
-  phone:
+  address: 496 Magnolia Ave Ste 205 Riverside CA, 92503
+  phone: 951-858-5942
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: kpsellshomes@sbcglobal.net
+  url: http://joinremax.com/REMAX-PATRIOTS
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_text: "Let's talk about how RE/MAX PATRIOTS can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -51,11 +53,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
+  facebook_url: https://www.facebook.com/WeAreREMAX
+  linkedin_url: https://www.linkedin.com/in/kevinpeete/
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/remax
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -64,25 +65,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'California Real Estate Podcast with Kevin Peete'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the California Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX PATRIOTS - your professional California Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Kevin Peete'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: California Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#e11b22'
+  theme_color: '#323232'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
