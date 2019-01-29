@@ -5,7 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-
+  - title: About
+    url: /about/
 client:
   name: Kevin Peete
   title:
