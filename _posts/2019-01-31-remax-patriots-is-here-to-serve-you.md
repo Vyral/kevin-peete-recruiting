@@ -19,4 +19,4 @@ youtube_code: aSss_RqMDUY
 
 {% include youtube.html %}
 
-What are we at RE/MAX Patriots all about? You can follow along in today’s video to hear it from my special guest and son, Kevin Peete. In short, we’re here to tell you that we are a veteran-owned, Christian brokerage that believes we can make a difference in our clients’ lives. We’re a business with integrity, and it’s our pleasure to guide our clients in achieving their real estate goals.&nbsp;
+Are you looking for a brokerage with integrity? If so, it’s time to join RE/MAX Patriots. We are a veteran-owned, Christian brokerage, and we’re looking for talented agents to join us. We want to make a difference in our community, and in the lives of our clients, and we want your help in doing so. To hear more about who we are in the words of my main man, Kevin Peete, watch this short video.&nbsp;
