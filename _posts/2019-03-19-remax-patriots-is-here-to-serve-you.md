@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RE/MAX Patriots Is Here to Serve You
-date: 2019-01-31 18:05:59
+date: 2019-03-19 18:05:00
 tags:
   - Reviews and Referrals
 excerpt: >-
@@ -19,4 +19,4 @@ youtube_code: aSss_RqMDUY
 
 {% include youtube.html %}
 
-Are you looking for a brokerage with integrity? If so, it’s time to join RE/MAX Patriots. We are a veteran-owned, Christian brokerage, and we’re looking for talented agents to join us. We want to make a difference in our community, and in the lives of our clients, and we want your help in doing so. To hear more about who we are in the words of my main man, Kevin Peete, watch this short video.&nbsp;
+Are you looking for a brokerage with integrity? If so, it’s time to join RE/MAX Patriots. We are a veteran-owned, Christian brokerage, and we’re looking for talented agents to join us. We want to make a difference in our community, and in the lives of our clients, and we want your help in doing so. To hear more about who we are in the words of my main man, Kevin Peete, watch this short video.
