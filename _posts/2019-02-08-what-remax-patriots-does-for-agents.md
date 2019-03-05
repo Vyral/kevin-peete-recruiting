@@ -20,9 +20,9 @@ youtube_code: MW3xIIUHEsc
 
 {% include youtube.html %}
 
-If you’ve been looking to enhance your skills in the real estate industry, look no further. The RE/MAX Patriots team offers a fun, thriving culture to help agents achieve their best.
+If you’ve been looking to enhance your skills in the real estate industry; look no further. The RE/MAX Patriots team offers a fun, thriving culture to help agents achieve their best.
 
-As professional agents, we work hard, but we also play hard. **We believe in and support our agents. We provide the best tools available in order to help them flourish.** It’s your business, and we want it to be successful. 
+As professional agents, we work hard, but we also play hard. **We believe in and support our agents. We provide the best tools available in order to help them flourish.** It’s your business, and we want it to be successful.&nbsp;
 
 {% include pullquote.html %}
 
