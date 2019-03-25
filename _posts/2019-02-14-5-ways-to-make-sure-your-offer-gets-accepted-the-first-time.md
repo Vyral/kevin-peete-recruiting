@@ -31,7 +31,7 @@ Do you ever wonder why your offers never get accepted? Here’s a list of the to
 
 **3. Put a large deposit down to show the seller that you’re serious.**
 
-**4. Make all cash an offer.** Remember, cash is king—don’t forget that.
+**4. Make an all cash offer.** Remember, cash is king—don’t forget that.
 
 **5. Shorten the close of escrow and inspection periods.**
 
