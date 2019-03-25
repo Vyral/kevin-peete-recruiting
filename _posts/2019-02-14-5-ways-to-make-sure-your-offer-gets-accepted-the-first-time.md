@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 5 Ways to Make Sure Your Offer Gets Accepted the 1st Time
-date: 2019-02-14 22:00:27
+title: 5 Ways to Make Sure Your Offer Gets Accepted the First Time
+date: 2019-02-14 22:00:00
 tags:
   - Lead Conversion
   - Buyer Prospects
