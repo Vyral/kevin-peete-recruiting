@@ -32,10 +32,10 @@ How do you succeed in our changing market in 2019? There are four elements that 
 
 <br>**2. Your relationships.** Are you building strategic or vertical relationships with the vendors you work with? What about the relationships in your community? Do you attend any social events or involve yourself in any networking clubs?
 
-<br>**3. Prospects.** This means how you get new leads, how you convert those leads, and how you handle your past clients, which brings me to our last point...
+{% include pullquote.html %}
+
+<br>**3. Prospects.** This means how you get new leads, how you convert those leads, and how you handle your past clients, which brings me to our last point…
 
 <br>**4. Past clients.** Make sure you meet all of your clients’ needs and commitments throughout each transaction so they become happy past clients. As you know, happy past clients produce new leads.&nbsp;
-
-{% include pullquote.html %}
 
 If you’d like to talk more about how to succeed in our changing market, don’t hesitate to give me a call or shoot me an email. I’d love to speak with you.<br>&nbsp;
