@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Reaching Your Potential
-date: 2019-12-16 21:03:21
+date: 2019-12-16 21:03:00
 tags:
   - Lead Generation
 excerpt: Here’s what you should know to truly reach your potential.
@@ -26,7 +26,7 @@ Now, I’ll share a quote from Nick Saban: “People assume everyone wants to re
 
 Realizing your potential has nothing to do with how you compare to others. Now, don’t get offended by the word “average”—we’re not implying that you’re average when compared to others in the industry. We’re suggesting that you may be average when compared to your potential. Similarly, “just enough to get by” doesn’t mean you do just enough to eke out a living, but instead it equates to staying inside your comfort zone and avoiding the discomfort that comes with growth and progress.&nbsp;
 
-The danger in comparing yourself to others is that it typically lulls you into a false sense of security, causing complacency when you mistakenly believe that because you sell over others, you’ve reached your potential. In reality, reaching your potential has nothing to do with how you compare to others. Reaching your potential revolves around the use of hours dedicated to your career.&nbsp;
+The danger in comparing yourself to others is that it typically lulls you into a false sense of security, causing complacency when you mistakenly believe that because you sell over others, you’ve reached your potential. In reality, reaching your potential has nothing to do with how you compare to others. Reaching your potential revolves around the hours you dedicate to your career.
 
 Think of the hours currently dedicated to your career. Are you getting the most use out of your time? Are you constantly operating at your highest and best use? Do you know your highest and best use of time?&nbsp;
 
