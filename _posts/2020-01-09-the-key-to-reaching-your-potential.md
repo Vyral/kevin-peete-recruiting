@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Reaching Your Potential
-date: 2019-12-16 21:03:00
+date: 2020-01-09 09:03:00
 tags:
   - Lead Generation
 excerpt: Here’s what you should know to truly reach your potential.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: tvQ_33AHAYs
+youtube_code: rq7pNzk2s-c
 ---
 
 {% include youtube.html %}
